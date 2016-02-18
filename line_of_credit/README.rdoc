@@ -1,0 +1,4 @@
+== README
+
+I have some dummy data in seeds file.
+run "rake db:reset" to setup the database.

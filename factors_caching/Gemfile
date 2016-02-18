@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+group :development do
+  gem 'shuhari'
+  gem 'rspec'
+  gem 'guard-rspec'
+  gem 'coolline', :require => false
+  gem 'growl'
+  # gem 'growl_notify'
+  # gem 'ruby_gntp'
+  # gem 'terminal-notifier-guard'
+  gem 'rb-fsevent'
+end
